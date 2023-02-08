@@ -6,5 +6,3 @@ a = 3
 b = 5
 small = a if a < b else b
 
-bigold = 'cqw' if "陈庆文" == "陈庆文" else "陈梦龙"
-print(bigold)
